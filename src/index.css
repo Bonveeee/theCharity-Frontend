@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+ /* NavBar Section  */
+ .navbar-nav {
+  display: flex;
+  }
+
+.navbar-nav > .nav-item{
+    list-style: none;
+    padding-left: 2%;
+    width: 50%;
+    
+}
+.navbar-nav > .nav-item > .nav-link{
+  text-decoration: none;
+}
