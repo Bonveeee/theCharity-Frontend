@@ -26,4 +26,19 @@ code {
 }
 .navbar-nav > .nav-item > .nav-link{
   text-decoration: none;
+  color: black;
 }
+
+
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 95%;
+  left: 40%;
+  transform: translate(-50%, -40%);
+ color: whitesmoke;
+ font-size: larger;
+
+}
+
